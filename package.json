@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "chai": "^5.1.2",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "mocha": "^11.1.0",
     "proxy-agent": "^6.5.0",
